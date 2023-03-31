@@ -9,7 +9,7 @@ public class Exercicio_8 {
 		
 		int cont = 0, x;
 		
-		for(int i = 0; i <= 10 - 1; i++) {
+		for(int i = 0; i <= 10; i++) {
 			System.out.println("Digite um numero: ");
 			x = sc.nextInt();
 			if(x < 0) {
